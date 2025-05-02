@@ -39,8 +39,8 @@
 
 > Visit my pinned repositories to see these in action 👇
 
-- 🔹 **MEAN Stack App** — Angular + Node.js + MongoDB + Auth + Docker
-- 🔹 **MERN Stack Dashboard** — React + Express + Mongo + Role-based access
+🔹 **MEAN Stack App** — Angular + Node.js + MongoDB + Auth + Docker
+🔹 **MERN Stack Dashboard** — React + Express + Mongo + Role-based access
 - 🔹 **Vue Inventory Manager** — Vue 3 + Composition API + TailwindCSS + Firebase
 - 🔹 **Go REST API** — Fast, minimal API with goroutines and middleware
 - 🔹 **FastAPI Notes Service** — Python, Pydantic, JWT, and testing
