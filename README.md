@@ -67,9 +67,8 @@
 
 ## 📫 Let's Connect
 
-📧 [Email Me](mailto:kashyapkrlucky@example.com)  
+📧 [Email Me](mailto:kashyapkrlucky@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/kashyapkrlucky)  
-🌐 [Portfolio](https://kashyapkrlucky.dev)
 
 ---
 
