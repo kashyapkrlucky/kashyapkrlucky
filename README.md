@@ -39,7 +39,7 @@
 
 > Visit my pinned repositories to see these in action 👇
 
-- 🔹 **app-network-in** — React.js + Node.js + MongoDB + Auth + Docker
+- 🔹 **worklytics** — React.js + Node.js + MongoDB + Auth + Docker
 - 🔹 **md-blog** — Next.js + Mongo + Role-based access
 
 ---
