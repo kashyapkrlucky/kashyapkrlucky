@@ -35,19 +35,10 @@
 
 ---
 
-## 📌 Featured Projects
-
-> Visit my pinned repositories to see these in action 👇
-
-- 🔹 **worklytics** — React.js + Node.js + MongoDB + Auth + Docker
-- 🔹 **md-blog** — Next.js + Mongo + Role-based access
-
----
-
 ## 📈 GitHub Stats
 
-![Lucky's GitHub stats](https://github-readme-stats.vercel.app/api?username=kashyapkrlucky&show_icons=true&theme=github_dark&hide=issues&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashyapkrlucky&layout=compact&theme=github_dark)
+![Lucky's GitHub stats](https://github-readme-stats.vercel.app/api?username=kashyapkrlucky&show_icons=true&theme=github_light&hide=issues&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashyapkrlucky&layout=compact&theme=github_light)
 
 ---
 
