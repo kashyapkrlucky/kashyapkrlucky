@@ -30,13 +30,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Lucky's GitHub stats](https://github-readme-stats.vercel.app/api?username=kashyapkrlucky&show_icons=true&theme=github_light&hide=issues&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashyapkrlucky&layout=compact&theme=github_light)
-
----
-
 ## 🌱 Currently Learning
 
 - Distributed systems with Go
